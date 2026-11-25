@@ -1,0 +1,14 @@
+{
+  "categoryUrls": [
+    "https://www.amazon.com/Best-Sellers-Electronics/zgbs/electronics/"
+  ],
+  "maxItemsPerStartUrl": 10,
+  "depthOfCrawl": 1,
+  "detailedInformation": false,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
